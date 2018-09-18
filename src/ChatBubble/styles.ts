@@ -3,7 +3,7 @@ export default {
     overflow: 'auto',
   },
   chatbubble: {
-    backgroundColor: '#0084FF',
+    backgroundColor: 'rgba(0, 132, 255, 0.1)',
     borderRadius: 20,
     marginTop: 1,
     marginRight: 'auto',
@@ -20,7 +20,7 @@ export default {
     float: 'right',
   },
   recipientChatbubble: {
-    backgroundColor: '#ccc',
+    backgroundColor: 'rgba(0,0,0,0.05)',
   },
   recipientChatbubbleOrientationNormal: {
     float: 'left',
